@@ -1,0 +1,11 @@
+fastapi==0.111.0
+joblib==1.4.2
+numpy==2.0.0
+opencv_python==4.8.1.78
+opencv_python==4.10.0.84
+opencv_python_headless==4.10.0.84
+scikit_learn==1.5.0
+ultralytics==8.0.239
+ultralytics==8.2.46
+uvicorn==0.30.1
+streamlit==1.36.0
